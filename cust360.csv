@@ -1,49 +1,50 @@
-state,num_trans,totalsale,code,region
-Mississippi,43,3546,MS,South
-South Dakota,178,20562,SD,Midwest
-Utah,227,26111,UT,West
-Kentucky,213,19720,KY,South
-California,3178,406184,CA,West
-Nebraska,231,36112,NE,Midwest
-New Hampshire,28,190,NH,Northeast
-Delaware,101,16063,DE,Northeast
-Minnesota,324,43473,MN,Midwest
-Nevada,236,18873,NV,West
-North Carolina,550,61848,NC,Southeast
-Washington,635,58321,WA,West
-Louisiana,599,64770,LA,South
-Idaho,302,25792,ID,Midwest
-New Mexico,417,38256,NM,South
-Maine,49,6167,ME,Northeast
-Tennessee,434,50002,TN,Southeast
-Colorado,520,73703,CO,West
-Arizona,585,63909,AZ,West
-Alabama,637,89065,AL,South
-Oregon,182,23400,OR,West
-Kansas,155,22131,KS,Midwest
-Florida,1716,191160,FL,Southeast
-Pennsylvania,652,73908,PA,Northeast
-North Dakota,40,3688,ND,Midwest
-New York,1556,172679,NY,Northeast
-South Carolina,315,42714,SC,Southeast
-Texas,2530,290722,TX,South
-Ohio,801,98194,OH,Midwest
-District of Columbia,531,68474,DC,Southeast
-Iowa,407,45669,IA,Midwest
-Montana,8,507,MT,West
-New Jersey,58,7688,NJ,Northeast
-Indiana,559,55586,IN,Midwest
-Hawaii,264,31080,HI,Pacific
-Rhode Island,2,420,RI,Northeast
-Missouri,522,50924,MO,South
-Arkansas,90,15414,AR,South
-Georgia,937,120857,GA,Southeast
-Michigan,364,44492,MI,Northeast
-Illinois,445,53064,IL,Midwest
-Maryland,248,34821,MD,South
-Alaska,47,11610,AK,Pacific
-Connecticut,385,40771,CT,Northeast
-Massachusetts,256,30339,MA,Northeast
-Oklahoma,426,53194,OK,Midwest
-West Virginia,210,35000,WV,Midwest
-Virginia,1282,151762,VA,Southeast
+state,num_trans,totalsale,code,region,pop
+Mississippi,43,3546,MS,South,2988726
+South Dakota,178,20562,SD,Midwest,865454
+Utah,227,26111,UT,West,3051217
+Kentucky,213,19720,KY,South,4436974
+California,3178,406184,CA,West,39250017
+Nebraska,231,36112,NE,Midwest,1907116
+New Hampshire,28,190,NH,Northeast,1334795
+Delaware,101,16063,DE,Northeast,952065
+Minnesota,324,43473,MN,Midwest,5519952
+Nevada,236,18873,NV,West,2940058
+North Carolina,550,61848,NC,Southeast,10146788
+Washington,635,58321,WA,West,7288000
+Louisiana,599,64770,LA,South,4681666
+Idaho,302,25792,ID,Midwest,1683140
+New Mexico,417,38256,NM,South,2081015
+Maine,49,6167,ME,Northeast,1331479
+Tennessee,434,50002,TN,Southeast,6651194
+Colorado,520,73703,CO,West,5540545
+Arizona,585,63909,AZ,West,6931071
+Wisconsin,351,46556,WI,Midwest,5778708
+Alabama,637,89065,AL,South,4863300
+Oregon,182,23400,OR,West,4093465
+Kansas,155,22131,KS,Midwest,2907289
+Florida,1716,191160,FL,Southeast,20612439
+Pennsylvania,652,73908,PA,Northeast,12802503
+North Dakota,40,3688,ND,Midwest,757952
+New York,1556,172679,NY,Northeast,19745289
+South Carolina,315,42714,SC,Southeast,4961119
+Texas,2530,290722,TX,South,27862596
+Ohio,801,98194,OH,Midwest,11614373
+District of Columbia,531,68474,DC,Southeast,681170
+Iowa,407,45669,IA,Midwest,3134693
+Montana,8,507,MT,West,1042520
+New Jersey,58,7688,NJ,Northeast,8944469
+Indiana,559,55586,IN,Midwest,6633053
+Hawaii,264,31080,HI,Pacific,1428557
+Rhode Island,2,420,RI,Northeast,1056426
+Missouri,522,50924,MO,South,6093000
+Arkansas,90,15414,AR,South,2988248
+Georgia,937,120857,GA,Southeast,10310371
+Michigan,364,44492,MI,Northeast,9928301
+Illinois,445,53064,IL,Midwest,12801539
+Maryland,248,34821,MD,South,6016447
+Alaska,47,11610,AK,Pacific,741894
+Connecticut,385,40771,CT,Northeast,3576452
+Massachusetts,256,30339,MA,Northeast,6811779
+Oklahoma,426,53194,OK,Midwest,3923561
+West Virginia,210,35000,WV,Midwest,1831102
+Virginia,1282,151762,VA,Southeast,8411808
