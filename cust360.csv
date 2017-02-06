@@ -1,0 +1,49 @@
+state,num_trans,totalsale,code,region
+Mississippi,43,3546,MS,South
+South Dakota,178,20562,SD,Midwest
+Utah,227,26111,UT,West
+Kentucky,213,19720,KY,South
+California,3178,406184,CA,West
+Nebraska,231,36112,NE,Midwest
+New Hampshire,28,190,NH,Northeast
+Delaware,101,16063,DE,Northeast
+Minnesota,324,43473,MN,Midwest
+Nevada,236,18873,NV,West
+North Carolina,550,61848,NC,Southeast
+Washington,635,58321,WA,West
+Louisiana,599,64770,LA,South
+Idaho,302,25792,ID,Midwest
+New Mexico,417,38256,NM,South
+Maine,49,6167,ME,Northeast
+Tennessee,434,50002,TN,Southeast
+Colorado,520,73703,CO,West
+Arizona,585,63909,AZ,West
+Alabama,637,89065,AL,South
+Oregon,182,23400,OR,West
+Kansas,155,22131,KS,Midwest
+Florida,1716,191160,FL,Southeast
+Pennsylvania,652,73908,PA,Northeast
+North Dakota,40,3688,ND,Midwest
+New York,1556,172679,NY,Northeast
+South Carolina,315,42714,SC,Southeast
+Texas,2530,290722,TX,South
+Ohio,801,98194,OH,Midwest
+District of Columbia,531,68474,DC,Southeast
+Iowa,407,45669,IA,Midwest
+Montana,8,507,MT,West
+New Jersey,58,7688,NJ,Northeast
+Indiana,559,55586,IN,Midwest
+Hawaii,264,31080,HI,Pacific
+Rhode Island,2,420,RI,Northeast
+Missouri,522,50924,MO,South
+Arkansas,90,15414,AR,South
+Georgia,937,120857,GA,Southeast
+Michigan,364,44492,MI,Northeast
+Illinois,445,53064,IL,Midwest
+Maryland,248,34821,MD,South
+Alaska,47,11610,AK,Pacific
+Connecticut,385,40771,CT,Northeast
+Massachusetts,256,30339,MA,Northeast
+Oklahoma,426,53194,OK,Midwest
+West Virginia,210,35000,WV,Midwest
+Virginia,1282,151762,VA,Southeast
